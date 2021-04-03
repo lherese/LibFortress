@@ -1,3 +1,3 @@
 # LibFortress
 
-A description of this package.
+A fortress management game library.
